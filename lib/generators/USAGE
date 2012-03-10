@@ -1,0 +1,7 @@
+Description:
+    Create a copy of the geoname table.
+
+Example:
+    rails generate geopod:install
+
+    This will create migration and initializer file.
